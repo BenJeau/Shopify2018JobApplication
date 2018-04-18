@@ -3,6 +3,6 @@ Mobile Android application programmed to apply to a job at Shopify. It displays 
 
 ## Screenshots
 
-[![Main](https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/screenshots/Main.png)](https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/screenshots/SearchFull.png))
-[![Product](https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/screenshots/Product.png](https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/screenshots/SearchFull.png))
-[![Search](https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/screenshots/Search.png)](https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/screenshots/SearchFull.png))
+[![Main](https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/screenshots/Main.png)](https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/screenshots/SearchFull.png)
+[![Product](https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/screenshots/Product.png)](https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/screenshots/SearchFull.png)
+[![Search](https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/screenshots/Search.png)](https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/screenshots/SearchFull.png)
