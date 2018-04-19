@@ -12,5 +12,8 @@ If you want to see a demo of the app, click on any of the GIFs below.
 
 <a align="center" href="https://youtu.be/6rA4O4nxoQw">
 <img src="https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/demo/Transition.gif">
+</a>
+
+<a align="center" href="https://youtu.be/6rA4O4nxoQw">
 <img align="center" src="https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/demo/Search.gif">
 </a>
