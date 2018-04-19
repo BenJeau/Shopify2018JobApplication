@@ -10,9 +10,7 @@ Mobile Android application programmed to apply to a job at Shopify. It displays 
 ## Animations
 If you want to see a demo of the app, click on any of the GIFs below.
 
-<a href="https://youtu.be/6rA4O4nxoQw">
-<img align="center" src="https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/demo/Transition.gif">
-</a>
-<a href="https://youtu.be/6rA4O4nxoQw">
+<a align="center" href="https://youtu.be/6rA4O4nxoQw">
+<img src="https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/demo/Transition.gif">
 <img align="center" src="https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/demo/Search.gif">
 </a>
