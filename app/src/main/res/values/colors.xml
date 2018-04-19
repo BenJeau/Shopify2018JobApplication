@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main colors -->
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#2E7D32</color>
+
+    <!-- Text -->
+    <color name="colorText">#232323</color>
+    <color name="colorSubtitle">#797979</color>
+
+    <!-- CardView dividers -->
+    <color name="colorLine">#e4e4e4</color>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <!-- Titles -->
+    <string name="app_name" translatable="false">Shopify - Mobile Intern Application</string>
+    <string name="main_activity">Shopify</string>
+
+    <!-- Product description -->
+    <string name="info_tags">Tags</string>
+    <string name="info_vendor">Vendor</string>
+    <string name="info_color">Color</string>
+    <string name="info_price">Price</string>
+    <string name="info_quantity">Quantity</string>
+    <string name="info_weight">Weight</string>
+
+    <!-- Images description -->
+    <string name="product_image_description">Product</string>
+    <string name="tags_image_description">Tags</string>
+    <string name="vendor_image_description">Vendor</string>
+    <string name="variants_image_description">Variants</string>
+    <string name="price_image_description">Price</string>
+    <string name="quantity_image_description">Quantity</string>
+    <string name="weight_image_description">Weight</string>
+
+    <!-- Menu items names -->
+    <string name="search">Search</string>
+
+    <!-- Transition names -->
+    <string name="image_view_transition">imageViewTransition</string>
+
+    <!-- SearchView -->
+    <string name="search_hint">Search products</string>
+</resources>
