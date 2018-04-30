@@ -1,6 +1,9 @@
 # Shopify2018JobApplication
 Mobile Android application programmed to apply for a job at Shopify. It displays a list of products stored on an online JSON database, the database is not stored in the device. You can know more about the products by taping them, and you can even search the products. This application is responsive and properly responds to orientation events. In order to display efficiently every product, it is using a RecylcerView. It also extracts the main color of the product by creating a Palette. The application is mostly responsive, it depends on your network connection to access the database and the information about its products.
 
+## Usage
+If you only want to try the application, there is a [.apk](ShopifySummer2018Mobile.apk) file in which you can run or if you want to modify the code, the code is in this repository.
+
 ## Screenshots
 
 [![Main](https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/screenshots/Main.png)](https://raw.githubusercontent.com/BenJeau/ShopifyJobApplication/master/screenshots/MainFull.png)
