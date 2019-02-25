@@ -1,4 +1,4 @@
-# Shopify2018JobApplication
+# Shopify 2018 Summer Challenge
 Mobile Android application programmed to apply for a job at Shopify. It displays a list of products stored on an online JSON database, the database is not stored in the device. You can know more about the products by taping them, and you can even search the products. This application is responsive and properly responds to orientation events. In order to display efficiently every product, it is using a RecylcerView. It also extracts the main color of the product by creating a Palette. The application is mostly responsive, it depends on your network connection to access the database and the information about its products.
 
 ## Usage
